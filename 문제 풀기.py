@@ -65,7 +65,18 @@
 #license_plate="24가 2210"
 #license_plate=license_plate[4:]
 #print(license_plate)
-
+#23
+#string="홀짝홀짝홀짝"
+#print(string[::2])
+#24
+#string="PYTHON"
+#print(string[::-1])
+#25 (정답확인/replace/배우지 않음)
+phone_number="010-1111-2222"
+#phone_number=phone_number.replace("-"," ")
+print(phone_number)
+phone_number=phone_number.replace("-","")
+print(phone_number)
 
 
 
