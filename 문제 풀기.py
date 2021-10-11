@@ -137,7 +137,13 @@ a.split()
 ticker = "btc_krw"
 ticker.split("_")
 #49
-
+#date = "2020-05-01"
+#date=date.split("-")
+#print(date)
+#50
+#data="0039490         "
+#data=data.rstrip()
+#print(data)
 #51
 movie_rank=['닥터 스트레인지','스플릿','럭키']
 print(movie_rank)
