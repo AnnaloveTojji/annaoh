@@ -13,5 +13,3 @@ for i in mylist2:
         love=love+d
         print(d)
 print(love)
-#해킹 수업
-#
