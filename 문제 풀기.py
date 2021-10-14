@@ -176,7 +176,12 @@ print(len(cook))
 #60
 nums=[1,2,3,4,5]
 print(sum(nums)/len(nums))
-
+#71
+my_variable = ()
+#72
+movie_rank = ("닥터 스트레인지", "스플릿", "럭키")
+#73
+my_tuple = (1, )
 
 
 
