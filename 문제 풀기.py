@@ -182,6 +182,55 @@ my_variable = ()
 movie_rank = ("닥터 스트레인지", "스플릿", "럭키")
 #73
 my_tuple = (1, )
+#101
+#bool
+#102
+#False
+#103
+#True
+#104
+#True
+#105
+#True
+#106
+#존재하지 않는 연산자이다.
+#107
+#출력이 되지 않는다.
+#108
+#Hi,there.
+#109
+#1 2 4
+#110
+#3 5
+#111
+#user=input("입력":")
+#print(user*2)
+#112
+#user=input("숫자를 입력하세요:")
+#print(10+int(user))
+#113
+#user=input("")
+#if int(user)%2==0:
+#   print("짝수")
+#else:
+#   print("홀수")
+#114
+#user = input("입력값: ")
+#num = 20 + int(user)
+#if num > 255:
+#    print(255)
+#else:
+#    print(num)
+#115
+#user = input("입력값: ")
+##num = int(user) - 20
+#if num > 255:
+#    print(255)
+#elif num < 0:
+#    print(0)
+#else:
+#    print(num)
+
 
 
 
