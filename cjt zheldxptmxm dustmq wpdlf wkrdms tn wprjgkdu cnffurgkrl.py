@@ -1,4 +1,4 @@
-def solution(arr)
+def solution(arr):
     small=min(arr)
     arr.remove(small)
     length=len(arr)
