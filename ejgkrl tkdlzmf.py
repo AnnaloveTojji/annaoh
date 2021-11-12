@@ -6,3 +6,4 @@ if ftq==1:
     sq=int(input("더하기 사이클에 넣을 숫자를 입력하세요."))
     if sq<10:
         sq=sq*10
+tlgjatkadk dkanrjssk
