@@ -1,0 +1,7 @@
+dict = {i:i for i in lst}
+
+rng = range(100, 160, 10)
+dict = {i:i/100 for i in rng}
+
+dict2 = {i:dict1[i] for i in dict1 if dict1[i]>2000}
+
